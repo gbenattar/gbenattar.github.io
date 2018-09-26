@@ -1,4 +1,4 @@
-I am a Co-Founder at [KZen Networks](https://www.linkedin.com/company/kzen-networks/) (VP Software Engineering) working on advanced cryptography for blockchains, former Senior Software Engineer at [Amazon](https://www.linkedin.com/company/Amazon/) in three countries for four organizations building large-scale systems.
+I am a Co-Founder at [KZen Networks](https://www.linkedin.com/company/kzen-networks/) (Engineering) working on advanced cryptography for blockchains, former Senior Software Engineer at [Amazon](https://www.linkedin.com/company/Amazon/) in three countries for four organizations building large-scale systems.
 
 I got my MSc/ BSc from [Pierre and Marie Curie University (Paris 6)](https://www.linkedin.com/school/universite-pierre-et-marie-curie/) in Computer Science.
 
