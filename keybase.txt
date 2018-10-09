@@ -1,0 +1,70 @@
+yHoMyAdEXAYxxio6jgTdGEyW
+==================================================================
+https://keybase.io/benattar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gbenattar.github.io
+  * I am benattar (https://keybase.io/benattar) on keybase.
+  * I have a public key with fingerprint D024 7B37 0031 3C57 919B  553A E547 9457 BF04 0A05
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101344ad83fd2333c2555d616868f9a9cb478cd7e2fabe0d0f96e91f384233ed2100a",
+      "fingerprint": "d0247b3700313c57919b553ae5479457bf040a05",
+      "host": "keybase.io",
+      "key_id": "e5479457bf040a05",
+      "kid": "0101344ad83fd2333c2555d616868f9a9cb478cd7e2fabe0d0f96e91f384233ed2100a",
+      "uid": "2aa49933e8008f851202f0133375ea19",
+      "username": "benattar"
+    },
+    "service": {
+      "hostname": "gbenattar.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1539072959,
+  "expire_in": 157680000,
+  "prev": "97e0de5b209ddc0c6386b36965332e52c798e2d1c512cff9accd21ca5399d297",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIlAnicrZJdSBRRFMd3y4/cjAzEPiysgRJqsTtz587MNfFRkwoiFCPDdebOnXVw
+3VlnZ7fM1jAto6QvKynNEnqKQAITijKLokCsRMgepCgJowhfLHow7Y7pW489Xe7h
+d/7n/z+cZyuWenzemQ+lHWRHjtc79ORGzFPxkDxu4DRLr+fyG7gaOv/QkE6jTqDG
+1Ll8DvCAh6Ko6go0dAFCSASEkC7xkiIpBlYx0URZIbpMBUPVKNCBgSWKeQMqIsOp
+LvAAqJyfM8xwkNoR2ww7TFYHgihrUAYA8pAgGfNYQwiqFIkyFpGsGUAEKkCssdqK
+uh3MnKZGaZ5psRr7BObt/YP/z75j83KCqooYs7oCgGIoiBeAYLAJEMqIqjx2wSi1
+w2otZbRGw6rjqDaX8HOsGjcJdRfrJlkggotIXtB0qmPa31gR23IsYoUYUO04kWi+
+K+DUR9yOQ1QLLGgFNDOss3Wyjji1o6YV5vJ5RhLHdMV5BDGQBYywn6OHI6ZNA6ZL
+IFli7gFw59A4k8Qyy02RJgCs6wQQCSqSBiUsIQgFigQiY4UKOk9YXGKwpRHC1kJU
+po91Acucm64ubDFtgflUg0wzagZZsJhNucTTwYNJHq/Pk5K8xL0zjy8tY/H6tmWl
+zlVu7jkxXpt3vqS5u2toHVk2PLq6vG3/50B6/2ReceZgYe+ugomJVSPvb5dY2zqK
+YxPvqo6OZPzaMzz5fM2dioEuX1XKrFZw33ft587QrG945Ytvzt3OjDHQ/ygkTi0t
+8qMHr8ZnNhReXf/l2VTfgaaW6Rd2Z+m9ge+XE0m5TqZytufj3qnJLcGBtAdNFeMN
+Q0/OnTm+OutWWG4flcrjQ8trjQtregf1381ZlWUjrS/LktYmWqS2k5cS9Xsb63/0
+vblYrWEpM9Qe3H19X1v3WN1AsnnqExg5Xeetu5wan/PntsYDr6+Q3rHpm2mDjcc2
+Zm8qynkrbt1+5M109kHPV4LT/wDyUD6t
+=A4KE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benattar
+
+==================================================================
+
