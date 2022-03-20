@@ -1,6 +1,6 @@
 *Projects proposal or request for details via email are welcome.*
 
-I am currently focus on helping people who **struggle with their spendings** by building an innovative financial program (to know more you can email me at gary@woozzi.com).
+I am currently focusing on helping people who **struggle with their spendings** by building an innovative financial program (free) via an app (to know more you can email me at gary@woozzi.com).
 
 In addition, I do consulting missions about the following topics: **engineering**, **blockchains** and **cyber security**.
 
