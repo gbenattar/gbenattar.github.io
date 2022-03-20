@@ -1,11 +1,13 @@
 *Projects proposal or request for details via email are welcome.*
 
-I do consulting missions about the following topics: **engineering**, **blockchains** and **cyber security**.
+I am currently focus on helping people who **struggle with their spendings** by building an innovative financial program (to know more you can email me at gary@woozzi.com).
 
-I also work on side projects related to: **asynchronous / deep communication** and **NFT tokens** around the topic of **proof of ownership**.
+In addition, I do consulting missions about the following topics: **engineering**, **blockchains** and **cyber security**.
+
+Other side projects are related to: **asynchronous / deep communication** and **NFT tokens** around the topic of **proof of ownership**.
 
 ___
-I am an advisor (former Co-Founder) at [ZenGo](https://www.zengo.com) (Engineering) where we built the world’s first keyless crypto wallet using secure Multi-Party Computation (MPC).
+I am a former Co-Founder / advisor at [ZenGo](https://www.zengo.com) (Engineering) where we built the world’s first keyless crypto wallet using secure Multi-Party Computation (MPC).
 Currently principal engineer at [Toluna](https://tolunacorporate.com/) and former Senior Software Engineer at [Amazon](https://www.amazon.com) where I spent most of my time on large scale (Amazon world-wide) outlier detection and remediation platforms (see [10009246](https://patents.google.com/patent/US10009246B1/en)).
 
 I lived in 4 countries (France, United States, Luxembourg, Israel - _current_) where I built software across the following domains:
