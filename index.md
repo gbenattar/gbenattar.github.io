@@ -1,6 +1,6 @@
 *Projects proposal or request for details via email are welcome.*
 
-I am currently focusing on helping people who **struggle with their spendings** by building an innovative financial program (free) via an app (to know more you can email me at gary@woozzi.com).
+I am building the first social spending tracker app to help you and your friends spend less, you can request early access at [woozzi.com](https://www.woozzi.com/).
 
 In addition, I do consulting missions about the following topics: **engineering**, **blockchains** and **cyber security**.
 
