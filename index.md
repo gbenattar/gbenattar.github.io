@@ -1,5 +1,7 @@
 I am working for Amazon as a Senior Software Development Manager focusing on building the futur of Human Resources, former member of Amazon Customer Service Technology, Prime Air (delivery by drone), Lab126 (Amazon Echo) and Fulfillment Center Systems.
+
 ___
+
 I am a former Co-Founder / advisor at [ZenGo](https://www.zengo.com) (Engineering) where we built the world’s first keyless crypto wallet using secure Multi-Party Computation (MPC).
 Currently Sr Software Development Manager and former Senior Software Engineer at [Amazon](https://www.amazon.com) where I spent most of my time on large scale (Amazon world-wide) outlier detection and remediation platforms (see [10009246](https://patents.google.com/patent/US10009246B1/en)).
 
