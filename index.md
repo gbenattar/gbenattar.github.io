@@ -1,16 +1,7 @@
-*Projects proposal or request for details via email are welcome.*
-
-I am working for Amazon Web Services (AWS) as a Senior Software Development Manager focusing on building the futur of Human Resources, former member of Amazon Customer Service Technology, Prime Air (delivery by drone), Lab126 (Amazon Echo) and Fulfillment Center Systems.
-
-As a current side project, I am building the first social spending tracker app to help you and your friends spend less, you can request early access at [woozzi.com](https://www.woozzi.com/).
-
-In addition, I do consulting missions about the following topics: **engineering**, **blockchains** and **cyber security**.
-
-Other side projects are related to: **asynchronous / deep communication** and **NFT tokens** around the topic of **proof of ownership**.
-
+I am working for Amazon as a Senior Software Development Manager focusing on building the futur of Human Resources, former member of Amazon Customer Service Technology, Prime Air (delivery by drone), Lab126 (Amazon Echo) and Fulfillment Center Systems.
 ___
 I am a former Co-Founder / advisor at [ZenGo](https://www.zengo.com) (Engineering) where we built the world’s first keyless crypto wallet using secure Multi-Party Computation (MPC).
-Currently Sr Software Development Manager at AWS and former Senior Software Engineer at [Amazon](https://www.amazon.com) where I spent most of my time on large scale (Amazon world-wide) outlier detection and remediation platforms (see [10009246](https://patents.google.com/patent/US10009246B1/en)).
+Currently Sr Software Development Manager and former Senior Software Engineer at [Amazon](https://www.amazon.com) where I spent most of my time on large scale (Amazon world-wide) outlier detection and remediation platforms (see [10009246](https://patents.google.com/patent/US10009246B1/en)).
 
 I lived in 4 countries (France, United States, Luxembourg, Israel - _current_) where I built software across the following domains:
 * cryptography and blockchains (see [WO2020157756A1](https://patents.google.com/patent/WO2020157756A1/en?oq=WO2020157756A1) and [Github](https://github.com/gbenattar))
@@ -22,7 +13,7 @@ ___
 I got my MSc/BSc with _Mention Très Bien / highest honor_ from [Pierre and Marie Curie University (Paris 6)](https://www.linkedin.com/school/universite-pierre-et-marie-curie/) in Computer Science / Software Engineering.
 
 ___
-I am a sports enthusiast practicing **climbing (bouldering)** for many years, currently learning **Brazilian Jiu Jitsu** / **grappling** (blue belt) and **boxing**.
+I am a sports enthusiast practicing **Brazilian Jiu Jitsu** and **grappling**.
 
 
 
